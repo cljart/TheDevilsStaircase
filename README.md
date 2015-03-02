@@ -1,7 +1,7 @@
 # The Devils Staircase
 
 ### 1. First steps in Ruby/SonicPi
-Inspired by this [video] (https://www.youtube.com/watch?v=1ZTaiDHqs5s) we implemented the algorithm in SonicPi with Ruby.  
+Inspired by this [video] (https://www.youtube.com/watch?v=1ZTaiDHqs5s) we implemented the [algorithm](https://en.wikipedia.org/wiki/Cantor_function) in SonicPi with Ruby.  
 
 **How to run it?**  
 If you want to try it out install [Sonic Pi] (http://sonic-pi.net/) and copy the code from the ```devils_staircase.rb``` into your Sonic Pi workspace and run it.
