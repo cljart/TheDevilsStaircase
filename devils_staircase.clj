@@ -2,16 +2,13 @@
  (:require [overtone.live :refer :all]
            [overtone.inst.sampled-piano :refer :all]))
 
-
-(def metro (metronome 100))
+(def amount-fingers 5)
 
 (defn audio-level [time finger amount-fingers]
   (cond
     (= finger 0) (/ time 11)
     (= finger (dec amount-fingers)) (- 1 (/ time 11))
     :else 1))
-
-(def amount-fingers 5)
 
 (defn finger->note [finger time]
   (+ 50 (* 12 finger) time))
