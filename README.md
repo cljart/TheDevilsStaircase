@@ -28,3 +28,7 @@ Load Overtone in the REPL with ```(use 'overtone.live)```.
 Switch to your files namespace e.g. ```(in-ns 'mad-sounds.devils_staircase)```.  
 Evaluate the code in your file with the last bracket selected and shortcut ```C-x C-e```.  
 Then run the code with ```C-c C-c``` shortcut.  
+  
+:stuck_out_tongue_winking_eye: :notes: :fire: :star2: GOAL COMPLETED :star2: :fire: :notes: :stuck_out_tongue_winking_eye:
+
+Next goal: Make the sound more diverse.
