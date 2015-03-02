@@ -12,9 +12,12 @@ If you want to try it out install [Sonic Pi] (http://sonic-pi.net/) and copy the
 
 
 ### 2. Starting to convert into Clojure  
-We created a file ```devils_staircase.clj``` which currently inlcudes a piano and a simple melody with chords.  
+We created a file ```devils_staircase.clj``` which for some time inlcuded a piano and a simple melody with chords.  
   
 **Next step:** Implement the devils staircase algorithm.
+
+### 3. Converted into Clojure  
+Finally we converted the algorithm in Clojure. You can find the code in the ```devils_staircase.clj```.
 
 **How to run it?**  
 It is a bit complicated. Don't panic. :scream_cat:  
